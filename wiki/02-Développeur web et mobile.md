@@ -2,7 +2,7 @@
 
 *  🔖 **Définition**
 *  🔖 **Le métier**
-*  🔖 **Compétences**
+*  🔖 **Les compétences**
 
 ___
 
@@ -66,15 +66,19 @@ Les grilles salariales varient enormement entre l'île de france et la province.
 
 ___
 
-## 📑 Compétences
+## 📑 Les compétences
 
 JavaScript, Java et Python sont, pour la troisième année consécutive, les langages de programmation les plus pratiqués par les professionnels de la tech. Plus de la moitié des développeurs maîtrisent en effet ces 3 langages.
+
+### 🏷️ **Languages**
 
 > 45% des développeurs codent en C, mais seulement 15,4% des entreprises ont des besoins en développement C. 
 
 Les entreprises sont alignées avec les développeurs sur la nécessité de savoir coder en Javascript et en Java : près de 60% des recruteurs ont des besoins de recrutement importants sur ces technologies. 
 
 ![image](./resources/devstack.png)
+
+### 🏷️ **Framework**
 
 React est le framework le plus en demande sur le marché de la tech : 59% des recruteurs recherchent des professionnels maîtrisant React. Malheureusement, seuls 27,6% des programmeurs déclarent connaître cette librairie Javascript open-source. 
 
