@@ -8,17 +8,17 @@ ___
 
 ## 📑 Définition
 
-Le regroupement développeur web, logiciel, mobile regroupe en lui même une multitude de sous métier.
+Le regroupement développeur web, logiciel, mobile regroupe en lui même une **multitude de sous métier**.
 
 ![image](./resources/developpeur.jpg)
 
 ### 🏷️ **Définition**
 
-Le développeur est chargé de construire des programmes informatiques pour ses clients. Il analyse leurs besoins, leur crée un projet et le mène à bien. Il doit connaître les langages de programmation sur le bout des doigts afin d’être capable de concevoir un programme dans sa totalité.
+Le développeur est chargé de **construire des programmes informatiques** pour ses clients. Il **analyse** leurs besoins, leur **crée** un projet et le **mène** à bien. Il doit connaître les langages de programmation sur le bout des doigts afin d’être capable de concevoir un programme dans sa totalité.
 
-> Le développeur informatique doit faire preuve d’une grande rigueur, car tout ce qui touche aux programmes informatiques nécessite une extrême précision.
+> Le développeur informatique doit faire preuve d’une grande **rigueur**, car tout ce qui touche aux programmes informatiques nécessite une extrême précision.
 
-Le métier de développeur web et/ou logiciel connaît ces dernières années une ascension fulgurante, autant en termes de salaire que de recrutement et d’attractivité. Selon une étude pour Le Monde Campus, les métiers de développeur logiciels et développeur web arrivent respectivement à la première et à la deuxième place des métiers les plus recherchés sur LinkedIn. Les entreprises ont plus que besoin de développeurs compétents. 
+Le métier de développeur web et/ou logiciel connaît ces dernières années une ascension fulgurante, autant en termes de salaire que de recrutement et d’attractivité. Selon une étude pour Le Monde Campus, les métiers de développeur logiciels et développeur web arrivent respectivement à la première et à la deuxième place des métiers les plus recherchés sur LinkedIn. Les entreprises ont plus que **besoin de développeurs compétents**. 
 
 ### 🏷️ **Contexte**
 
@@ -40,13 +40,13 @@ Ce métier en regroupe de nombreux..
 
 ### 🏷️ **Différentiation**
 
-Au niveau des intitulés de poste, Développeur web et développeur d’applications desktop/mobiles sont les plus fréquemment cités par les professionnels du secteur. Au vu des pourcentage, ces derniers pouvaient sans doute en choisir plusieurs.
+Au niveau des intitulés de poste, **Développeur web et développeur d’applications desktop/mobiles** sont les plus fréquemment cités par les professionnels du secteur. Au vu des pourcentage, ces derniers pouvaient sans doute en choisir plusieurs.
 
 ![image](./resources/developpeur-intitule-poste.jpg)
 
 ### 🏷️ **Etudes**
 
-Les développeurs sont très diplômés. Plus d’un développeur sur 2 possède un Bac+4/5, 20 % un Bac+2/3. En revanche, ils sont 27 % à considérer que leur parcours académique n’a pas joué un rôle important dans leur réussite professionnelle.
+Les développeurs sont très diplômés. Plus d’un développeur sur 2 possède un **Bac+4/5**, 20 % un Bac+2/3. En revanche, ils sont 27 % à considérer que **leur parcours académique n’a pas joué un rôle important** dans leur réussite professionnelle.
 
 ![image](./resources/etudes-developpeurs.jpg)
 
@@ -60,7 +60,7 @@ Il faut relever que cette statistique diffère à l'internationale.
 
 ### 🏷️ **Salaires**
 
-Les grilles salariales varient enormement entre l'île de france et la province. Ci-dessous, retrouvez les salaires moyens des développeurs en France
+Les grilles salariales **varient enormement entre l'île de france et la province**. Ci-dessous, retrouvez les salaires moyens des développeurs en France
 
 ![image](./resources/salaire-developpeurs-france-2017.jpg)
 
@@ -68,18 +68,18 @@ ___
 
 ## 📑 Les compétences
 
-JavaScript, Java et Python sont, pour la troisième année consécutive, les langages de programmation les plus pratiqués par les professionnels de la tech. Plus de la moitié des développeurs maîtrisent en effet ces 3 langages.
+`JavaScript`, `Java` et `Python` sont, pour la troisième année consécutive, les langages de programmation les plus pratiqués par les professionnels de la tech. Plus de la moitié des développeurs maîtrisent en effet ces 3 langages.
 
 ### 🏷️ **Languages**
 
-> 45% des développeurs codent en C, mais seulement 15,4% des entreprises ont des besoins en développement C. 
+> 45% des développeurs codent en `C`, mais seulement 15,4% des entreprises ont des besoins en développement `C`. 
 
-Les entreprises sont alignées avec les développeurs sur la nécessité de savoir coder en Javascript et en Java : près de 60% des recruteurs ont des besoins de recrutement importants sur ces technologies. 
+Les entreprises sont alignées avec les développeurs sur la nécessité de savoir coder en `Javascript` et en `Java` : près de 60% des recruteurs ont des besoins de recrutement importants sur ces technologies. 
 
 ![image](./resources/devstack.png)
 
 ### 🏷️ **Framework**
 
-React est le framework le plus en demande sur le marché de la tech : 59% des recruteurs recherchent des professionnels maîtrisant React. Malheureusement, seuls 27,6% des programmeurs déclarent connaître cette librairie Javascript open-source. 
+`React` est le framework le plus en demande sur le marché de la tech : 59% des recruteurs recherchent des professionnels maîtrisant React. Malheureusement, seuls 27,6% des programmeurs déclarent connaître cette librairie Javascript open-source. 
 
 ![image](./resources/devframeworks.png)
