@@ -12,8 +12,6 @@ Le regroupement développeur web, logiciel, mobile regroupe en lui même une **m
 
 ![image](./resources/developpeur.jpg)
 
-### 🏷️ **Définition**
-
 Le développeur est chargé de **construire des programmes informatiques** pour ses clients. Il **analyse** leurs besoins, leur **crée** un projet et le **mène** à bien. Il doit connaître les langages de programmation sur le bout des doigts afin d’être capable de concevoir un programme dans sa totalité.
 
 > Le développeur informatique doit faire preuve d’une grande **rigueur**, car tout ce qui touche aux programmes informatiques nécessite une extrême précision.
