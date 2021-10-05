@@ -41,7 +41,7 @@ Ce métier aux multiples facettes est **rarement accessible aux débutants**. Ce
 
 ### 🏷️ **Salaires**
 
-Ci-dessous, retrouvez les salaires moyens des chefs de projet informatique en France
+Ci-dessous, retrouvez les salaires moyens des chefs de projet informatique en France:
 
 ![image](./resources/chef-de-projet-salaire.png)
 
