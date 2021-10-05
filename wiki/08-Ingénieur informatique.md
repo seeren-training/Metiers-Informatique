@@ -19,13 +19,11 @@ Ingénieur informaticien est un titre générique qui **comprend de nombreuses s
 * Les logiciels
 * L’intelligence artificielle
 
-
 ### 🏷️ **Contexte**
 
 S’ils évoluent dans une **SSII** (Sociétés de services en ingénierie informatique) ou dans le **service informatique d’une grande société**, les ingénieurs informatiques ont leurs spécialités
 
 ___
-
 
 ## 📑 Le métier
 
