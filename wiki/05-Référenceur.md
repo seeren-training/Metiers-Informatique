@@ -50,7 +50,7 @@ ___
 
 Les principales activités du consultant en référencement naturel sont les suivantes :
 
-La réalisation d’un **audit techniqu**e et éditorial : analyse sémantique, choix des mots clés, rapport de positionnement, identification de facteurs bloquants, analyse des liens entrants.
+La réalisation d’un **audit technique** et éditorial : analyse sémantique, choix des mots clés, rapport de positionnement, identification de facteurs bloquants, analyse des liens entrants.
 
 L’élaboration d’une **stratégie SEO** : définition d’objectifs, préconisations techniques, choix des mots-clés, optimisation technique du site, optimisation des contenus, netlinking.
 

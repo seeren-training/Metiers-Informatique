@@ -9,7 +9,7 @@ ___
 
 **Sécuriser** toutes les données de l’entreprise pour laquelle il travaille, ainsi que son site web. 
 
-![image](./resources/expert-cyber-securite.png)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/expert-cyber-securite.png)
 
 Il doit **détecter toutes les failles** de sécurité dans le système afin de prévoir et d’empêcher les intrusions de la part de hackers ou pirates informatiques.
 
@@ -31,4 +31,4 @@ Pour devenir expert en cybersécurité, un niveau **bac+5** est requis en inform
 
 Ci-dessous, retrouvez les salaires moyens des experts en cyber sécurité en France:
 
-![image](./resources/expert-cyber-securite-salaire.png)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/expert-cyber-securite-salaire.png)

@@ -49,7 +49,7 @@ ___
 
 ## 📑 Les compétences
 
-L'on remarque que différent termes ont été utilisés comme `Agile`, `MOA`, `MOE`, `AMOA` et nous devrions nous interesser à l'évolution de ce métier et aux compétences requises.
+L'on remarque que différent termes ont été utilisés comme `Agile`, `MOA`, `MOE`, `AMOA` et nous devrions nous intéresser à l'évolution de ce métier et aux compétences requises.
 
 ![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/chef-de-projet-skill.png)
 

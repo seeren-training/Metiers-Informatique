@@ -20,7 +20,7 @@ Le métier de développeur web et/ou logiciel connaît ces dernières années un
 
 ### 🏷️ **Contexte**
 
-> Contrairement aux idées recues, la majorité des développeurs possèdent une situation de salariés.
+> Contrairement aux idées reçues, la majorité des développeurs possèdent une situation de salariés.
 
 **Statut** : 69 % sont employés à temps plein, 10 % sont indépendants
 
@@ -48,7 +48,7 @@ Les développeurs sont très diplômés. Plus d’un développeur sur 2 possède
 
 ![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/etudes-developpeurs.jpg)
 
-Malgrès ceci sur leur compétences professionelles ils sont une écrasante majoritée à avoir apris seuls.
+Malgré ceci sur leur compétences professionnelles ils sont une écrasante majorité à avoir appris seuls.
 
 ![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/autodidacte-developpeurs.jpg)
 
@@ -58,7 +58,7 @@ Il faut relever que cette statistique diffère à l'internationale.
 
 ### 🏷️ **Salaires**
 
-Les grilles salariales **varient enormement entre l'île de france et la province**. Ci-dessous, retrouvez les salaires moyens des développeurs en France
+Les grilles salariales **varient énormément entre l'île de France et la province**. Ci-dessous, retrouvez les salaires moyens des développeurs en France
 
 ![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/salaire-developpeurs-france-2017.jpg)
 

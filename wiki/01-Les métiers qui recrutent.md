@@ -14,5 +14,4 @@ ___
 
 ### 🏷️ **Hiérarchie**
 
-Par conséquent **observons la fiche métiers de ceux qui sont le plus demandés** afin de cibler les compétences requises et leur intéractions.
-
+Par conséquent **observons la fiche métiers de ceux qui sont le plus demandés** afin de cibler les compétences requises et leur interactions.
