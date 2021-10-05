@@ -10,7 +10,7 @@ ___
 
 Le métier d’ingénieur en informatique est **la profession la plus importante qu’il est possible d’atteindre** après des études dans le secteur de l’informatique.
 
-![image](./resources/ingenieur-informatique.png)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/ingenieur-informatique.png)
 
 Ingénieur informaticien est un titre générique qui **comprend de nombreuses spécialités**. Ainsi, beaucoup d’ingénieurs sont spécialisés dans : 
 
@@ -29,7 +29,7 @@ ___
 
 > Le métier d’ingénieur informatique est accessible après un bac+5 minimum. 
 
-![image](./resources/ingenieur-informatique-ecoles.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/ingenieur-informatique-ecoles.jpg)
 
 Au lycée, si le **bac S** est la meilleure filière, on peut aussi devenir ingénieur informatique après un bac STI2D ou STMG.
 
@@ -39,7 +39,7 @@ Ensuite, plusieurs voies sont possibles : un **IUT** suivi d’une **école d’
 
 Ci-dessous, retrouvez les salaires moyens des ingénieurs informatiques en France:
 
-![image](./resources/ingenieur-informatique-salaire.png)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/ingenieur-informatique-salaire.png)
 
 
 ___

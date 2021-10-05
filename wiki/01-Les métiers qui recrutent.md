@@ -10,7 +10,7 @@ ___
 
 **Le secteur de l’informatique embauche beaucoup**, les entreprises françaises sont nombreuses à rechercher de nouveaux professionnels qualifiés pour répondre aux évolutions technologiques et numériques - *Source diplomeo 2021*.
 
-![image](./resources/top-10.png)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/top-10.png)
 
 ### 🏷️ **Hiérarchie**
 

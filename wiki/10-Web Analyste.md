@@ -10,7 +10,7 @@ ___
 
 > Le consultant en web analytique travaille pour des entreprises qui ont un site internet et qui désirent connaître toutes les statistiques de celui-ci. 
 
-![image](./resources/web-analyste.webp)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/web-analyste.webp)
 
 Il **étudie et mesure sa fréquentation et ses performances** et définit les besoins de son client afin de lui apporter une solution pour faire évoluer son site.
 

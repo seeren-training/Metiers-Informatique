@@ -10,7 +10,7 @@ ___
 
 Le regroupement développeur web, logiciel, mobile regroupe en lui même une **multitude de sous métier**.
 
-![image](./resources/developpeur.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/developpeur.jpg)
 
 Le développeur est chargé de **construire des programmes informatiques** pour ses clients. Il **analyse** leurs besoins, leur **crée** un projet et le **mène** à bien. Il doit connaître les langages de programmation sur le bout des doigts afin d’être capable de concevoir un programme dans sa totalité.
 
@@ -40,27 +40,27 @@ Ce métier en regroupe de nombreux..
 
 Au niveau des intitulés de poste, **Développeur web et développeur d’applications desktop/mobiles** sont les plus fréquemment cités par les professionnels du secteur. Au vu des pourcentage, ces derniers pouvaient sans doute en choisir plusieurs.
 
-![image](./resources/developpeur-intitule-poste.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/developpeur-intitule-poste.jpg)
 
 ### 🏷️ **Etudes**
 
 Les développeurs sont très diplômés. Plus d’un développeur sur 2 possède un **Bac+4/5**, 20 % un Bac+2/3. En revanche, ils sont 27 % à considérer que **leur parcours académique n’a pas joué un rôle important** dans leur réussite professionnelle.
 
-![image](./resources/etudes-developpeurs.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/etudes-developpeurs.jpg)
 
 Malgrès ceci sur leur compétences professionelles ils sont une écrasante majoritée à avoir apris seuls.
 
-![image](./resources/autodidacte-developpeurs.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/autodidacte-developpeurs.jpg)
 
 Il faut relever que cette statistique diffère à l'internationale.
 
-![image](./resources/autodidacte.png)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/autodidacte.png)
 
 ### 🏷️ **Salaires**
 
 Les grilles salariales **varient enormement entre l'île de france et la province**. Ci-dessous, retrouvez les salaires moyens des développeurs en France
 
-![image](./resources/salaire-developpeurs-france-2017.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/salaire-developpeurs-france-2017.jpg)
 
 ___
 
@@ -74,10 +74,10 @@ ___
 
 Les entreprises sont alignées avec les développeurs sur la nécessité de savoir coder en `Javascript` et en `Java` : près de 60% des recruteurs ont des besoins de recrutement importants sur ces technologies. 
 
-![image](./resources/devstack.png)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/devstack.png)
 
 ### 🏷️ **Framework**
 
 `React` est le framework le plus en demande sur le marché de la tech : 59% des recruteurs recherchent des professionnels maîtrisant React. Malheureusement, seuls 27,6% des programmeurs déclarent connaître cette librairie Javascript open-source. 
 
-![image](./resources/devframeworks.png)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/devframeworks.png)

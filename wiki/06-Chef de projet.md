@@ -10,7 +10,7 @@ ___
 
 > Le chef de projet web technique est chargé d’encadrer une équipe de développeurs.
 
-![image](./resources/chef-de-projet.png)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/chef-de-projet.png)
 
 Il **traduit les demandes de son client en solutions informatiques**. Ses missions exigent des compétences techniques et managériales pour accompagner le travail des développeurs. Il élabore le **cahier des charges**, le **planning**, **évalue le temps de travail** et le budget et **sert d'interface** entre les différents acteurs (ingénieurs, techniciens, clients, fournisseurs...). 
 
@@ -43,7 +43,7 @@ Ce métier aux multiples facettes est **rarement accessible aux débutants**. Ce
 
 Ci-dessous, retrouvez les salaires moyens des chefs de projet informatique en France:
 
-![image](./resources/chef-de-projet-salaire.png)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/chef-de-projet-salaire.png)
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 L'on remarque que différent termes ont été utilisés comme `Agile`, `MOA`, `MOE`, `AMOA` et nous devrions nous interesser à l'évolution de ce métier et aux compétences requises.
 
-![image](./resources/chef-de-projet-skill.png)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/chef-de-projet-skill.png)
 
 > Définition de l'ensemble des phases techniques du projet:
 

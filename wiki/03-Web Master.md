@@ -10,7 +10,7 @@ ___
 
 Le webmaster est le **gestionnaire** d’un site internet : il est en charge de son bon fonctionnement au quotidien.
 
-![image](./resources/webmaster.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/webmaster.jpg)
 
 Il doit avoir des compétences **techniques** pointues, mais aussi des compétences **rédactionnelles** (qui peuvent lui servir à écrire ou modifier des contenus par exemple). Parfois, c’est même au webmaster que revient la conception initiale du site internet (une bonne connaissance des langages informatiques est alors indispensable).
 
@@ -32,13 +32,13 @@ ___
 
 Formation classique en informatique, diplôme d'école de commerce complété par une formation spécialisée, école privée… Dans tous les cas, **une adaptation permanente aux nouveaux outils est indispensable**.
 
-![image](./resources/webmaster-overview.png)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/webmaster-overview.png)
 
 ### 🏷️ **Salaires**
 
 Ci-dessous, retrouvez les salaires moyens des webmasters en France
 
-![image](./resources/webmaster-salaires.png)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/webmaster-salaires.png)
 
 ___
 

@@ -10,7 +10,7 @@ ___
 
 > L’expert en référencement (ou expert `SEO`) est souvent confondu avec le consultant en web analytics
 
-![image](./resources/seo.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/seo.jpg)
 
 L’expert en référencement est chargé d’**accroître la visibilité** et la présence sur le web des sites internet. Il travaille pour des entreprises et a pour mission de leur créer et de mener à bien une **stratégie de visibilité**. Aujourd’hui, internet est une source de revenus importante pour de nombreuses entreprises soucieuses du bon référencement de leur site internet. Les perspectives d’embauche sont donc élevées.
 
@@ -42,7 +42,7 @@ Les formations spécifiques en référencement ne sont pas encore très nombreus
 
 Avec **assez peu de juniors**, le salaire médian est représentatif de référenceurs assez expérimenté.
 
-![image](./resources/seo-salary.webp)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/seo-salary.webp)
 
 ___
 

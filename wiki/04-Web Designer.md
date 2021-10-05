@@ -10,7 +10,7 @@ ___
 
 > Si vous avez un profil plus créatif que matheux, le métier de webdesigner est fait pour vous !
 
-![image](./resources/webdesigner.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/webdesigner.jpg)
 
 Le webdesigner travaille pour un client qui lui demande de s’occuper de l’**identité visuelle** de son site internet. Sous la supervision du chef de projet ou d’un directeur artistique, il est ainsi chargé de **réaliser les éléments graphiques** comme les illustrations, les bannières, les animations flash, les fonds d’écran et parfois même les logos. Le but est de rendre le site attractif et de lui donner une identité unique qui captivera l’internaute ou le client. Pour être webdesigner, il faut être créatif, mais pas seulement : une grande connaissance du monde de l’informatique est nécessaire.
 
@@ -27,7 +27,7 @@ ___
 
 Alliant compétences graphiques et techniques, le webdesigner a généralement une **formation artistique** obtenue en école d'art ou en école spécialisée en communication, design et multimédia voire à l'université.
 
-![image](./resources/webdesign-metier.webp)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/webdesign-metier.webp)
 
 ### 🏷️ **Salaires**
 
@@ -39,7 +39,7 @@ ___
 
 Une bonne culture générale, une **grande sensibilité graphique et visuelle** sont nécessaires pour exercer ce métier.
 
-![image](./resources/webdesign-competences.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/webdesign-competences.jpg)
 
 * `HTML`/`CSS`,
 * `Photoshop`/`InDesign`/`Illustrator`,

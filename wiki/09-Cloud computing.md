@@ -10,7 +10,7 @@ ___
 
 > Le Cloud Computing est de plus en plus utilisé dans le milieu professionnel.
 
-![image](./resources/cloud-computing.png)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/cloud-computing.png)
 
 C’est une manière, pour les entreprises, de **stocker leurs applications et toutes leurs données** sur le web et non plus sur les ordinateurs. Gros avantage : en cas de panne du système, toutes les données sont encore disponibles via internet. Cette nouvelle technologie est de plus en plus prisée par les entreprises : elle permet un stockage plus sécuritaire et correspond à l’air du temps.
 
@@ -30,8 +30,7 @@ Pour exercer ce métier, il est recommandé de faire un **bac+5** en école d’
 
 Ci-dessous, retrouvez les salaires moyens des architectes cloud en France:
 
-![image](./resources/cloud-computing-salaire.png)
-
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/cloud-computing-salaire.png)
 
 ___
 

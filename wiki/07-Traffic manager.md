@@ -10,7 +10,7 @@ ___
 
 > Le traffic manager exerce dans des entreprises commercialisant leurs produits ou leurs services sur internet. 
 
-![image](./resources/traffic-manager.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/traffic-manager.jpg)
 
 Il a pour mission d’**accroître la rentabilité, la visibilité, l’acquisition de contact et donc les ventes** du site internet. Pour ce faire, il organise la stratégie **web marketing** de l’entreprise pour laquelle il travaille.
 
@@ -34,7 +34,7 @@ Ces écoles directement orientées vers les métiers du digital et du web sont d
 
 Ci-dessous, retrouvez les salaires moyens des traffic manager en France:
 
-![image](./resources/traffic-manager-salaire.png)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/traffic-manager-salaire.png)
 
 ___
 
@@ -42,6 +42,6 @@ ___
 
 Toute la journée face à des tableaux de bords comme `Google Analytics` pour être tenu au courant en temps réel des visites et visiteurs sur le site web.
 
-![image](./resources/traffic-manager-skill.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Metiers-Informatique/master/wiki/resources/traffic-manager-skill.jpg)
 
 Il s’intéresse à l’audience ramenée sur le site mais aussi à l’origine de cette visite. Il est aussi attentif à toutes les statistiques qui pourraient le renseigner sur la navigation d’un visiteur (taux de rebond, temps passé sur le site).  Le Traffic Manager peut aussi revêtir un costume plus commercial pour mettre en place des stratégies de marketing digital. Il est aussi attentif à la concurrence grâce à une veille quotidienne.
