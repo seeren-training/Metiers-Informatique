@@ -1,6 +1,5 @@
 # Référenceur
 
-
 *  🔖 **Définition**
 *  🔖 **Le métier**
 *  🔖 **Les compétences**
